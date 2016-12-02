@@ -1,6 +1,6 @@
-##Markdown##
+##Markdown
 
-###Gliederung###
+###Gliederung
 
 1. Markdown, eine universelle Sprache   
 1.1 Was ist Markdown  
