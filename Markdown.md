@@ -29,6 +29,16 @@
 1.1 Was ist Markdown?
 
 Markdown ist eine so genannte Markup-Language, eine Textsprache zur Notation von Textdokumenten in einem universell lesbarem Standard.
+Markdown wurde mit dem Ziel entwickelt, selbst im blanken Code-Zustand eine lesbare Syntax präsentieren zu können.
+Die geschrieben Dateien können von Programmen in jede erdenkliche Form umgesetzt werden, sei es HTML, PDF oder ePub-Formate. Man kann also sagen, dass Markdown zur späteren Anzeige "kompiliert" werden kann.
+Vornehmlich wird Markdown in einem Umfeld eingesetzt, in dem die Arbeitsumgebung zur Dokumentation der Arbeit nicht gewechselt werden möchte. (Programmierung)
+
+1.2 Vor- und Nachteile
+
+Für Markdown werden nahezu keinerlei Vorkenntnisse benötigt. Zum erstellen eines ersten Markdown-Textes kann man einfach drauf los schreiben. Die Umsetzung übernimmt ein Parser, den man in den meisten Fällen ganz nach seinen Wünschen anpassen kann.
+Markdown setzt komplett auf Textzeichen auf, die in der ASCII-Zeichentabelle zu finden sind. Da heißt, dass auch auf Systemen, die nicht mit Umlauten zurecht kommen, Markdown zum einsatz kommen kann. Umlaute werden selbstverständlich auch unterstützt. Die Syntax der Formatierung in Markdown besteht zumeist aus Leerzeichen und Abständen, was für Anfänger leicht verständlich ist, jedoch bei komplexeren Dokumenten zu Problemen führen kann.
+Die Formatierung der Elemente ist Kontext-abhängig. Somit ist es zum Beispiel nicht möglich, einen Codeblock in eine Tabelle zu integrieren, da die Meisten Programme zur Umsetzung nicht damit zurecht kommen und die Syntax dies nicht vorsieht.
+Ein weitere Nachteil ist, dass die letzte Vollversion der Software aus dem Jahr 2004 stammt. Um Markdown trotz dessen in der modernen Zeit einsetzen zu können, sind zahlreiche Dialekte der Sprache entstanden, die alle unterschiedliche Syntax enthalten können und sich von Version zu Version in ihrer Umsetzung unterscheiden.
 Markdown wurde mit dem Ziel entwickelt, selbst im blanken Code-Zustand eine lesbare Syntax zu repräsentieren. 
 
 
