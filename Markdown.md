@@ -10,6 +10,7 @@
 2.1 Einfache Formatierung  
 2.2 Komplexe Formartierung  
 2.3 Bitmap-Support  
+2.4 Unterschiede zu gängigen Textverarbeitungen  
 
 3. Einsatzgebiete  
 3.1 Dokumentation von Code  
@@ -24,3 +25,8 @@
 ---
 
 ## 1. Markdown, eine universelle Sprache
+
+1.1 Was ist Markdown?
+
+Markdown ist eine so genannte Markup-Language, eine Textsprache zur Notation von Textdokumenten in einem universell lesbarem Standard.
+Markdown wurde mit dem Ziel entwickelt, selbst im blanken Code-Zustand eine lesbare Syntax zu repräsentieren. 
