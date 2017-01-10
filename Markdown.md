@@ -106,3 +106,48 @@ Für die ersten 2 Ebenen gibt es alternative Schreibweisen:
 ======================
 Überschrift in Ebene 2
 ----------------------
+
+Weiter geht es mit Links, Bilder und Images:
+
+Code:
+
+    [Ein Beispiel](http://www.google.de/ "Titel, der beim Überfahren mit der Maus angezeigt wird"))
+    
+    allgemeine Syntax:
+
+    ![Alternativtext](Bild-URL "Bildtitel hier")
+
+    konkretes Beispiel:
+    ![nur ein Beispiel]()
+    
+    Here's our logo (hover to see the title text):
+
+    Inline-style: 
+    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+    Reference-style: 
+    ![alt text][logo]
+
+    [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+    
+Darstellung:
+
+[Ein Beispiel](http://www.google.de/ "Titel, der beim Überfahren mit der Maus angezeigt wird")
+
+allgemeine Syntax:
+
+![Alternativtext](Bild-URL "Bildtitel hier")
+
+konkretes Beispiel:
+![nur ein Beispiel]()
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
