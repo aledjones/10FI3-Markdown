@@ -29,4 +29,6 @@
 1.1 Was ist Markdown?
 
 Markdown ist eine so genannte Markup-Language, eine Textsprache zur Notation von Textdokumenten in einem universell lesbarem Standard.
-Markdown wurde mit dem Ziel entwickelt, selbst im blanken Code-Zustand eine lesbare Syntax zu repräsentieren. 
+Markdown wurde mit dem Ziel entwickelt, selbst im blanken Code-Zustand eine lesbare Syntax präsentieren zu können.
+Die geschrieben Dateien können von Programmen in jede erdenkliche Form umgesetzt werden, sei es HTML, PDF oder ePub-Formate. Man kann also sagen, dass Markdown zur späteren Anzeige "kompiliert" werden kann.
+Vornehmlich wird Markdown in einem Umfeld eingesetzt, in dem die Arbeitsumgebung zur Dokumentation der Arbeit nicht gewechselt werden möchte. (Programmierung)
