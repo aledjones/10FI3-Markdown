@@ -37,9 +37,9 @@ Markdown wurde mit dem Ziel entwickelt, selbst im blanken Code-Zustand eine lesb
 
 2.1 Einfache Formatierung
 
-In diesem Abschnitt wird als erstes ein Code-Block gezeigt und danach wie es aussieht, wenn man ihn in einem Markdown-Parser ausführt. 
-Ein Code-Block wird hinzugefügt, indem man vor die entsprechende Zeile 4 Leerzeichen setzt.  
-Zeilenumbrüche macht man sehr ähnlich mit 2 Leerzeilen am Ende einer Zeile.
+In diesem Abschnitt wird als erstes ein Code-Block gezeigt und danach wie es aussieht, wenn man ihn in einem Markdown-Parser ausführt.   
+Ein Code-Block wird hinzugefügt, indem man vor die entsprechende Zeile 4 Leerzeichen setzt.    
+Zeilenumbrüche macht man sehr ähnlich mit 2 Leerzeilen am Ende einer Zeile.  
 
 
 Fangen wir mit ein paar Grundlagen an:
@@ -83,8 +83,10 @@ Machen wir mit Überschriften in den verschiedenen Ebenen weiter:
 Code:  
 
     # Überschrift in Ebene 1
+    ## Überschrift in Ebene 2
+    ### Überschrift in Ebene 3 
     #### Überschrift in Ebene 4   
-    ##### Überschrift in Ebene 5 ist die kleinste Ebene
+    ##### Überschrift in Ebene 5 ist die kleinste Ebene  
     
     Für die ersten 2 Ebenen gibt es alternative Schreibweisen:
     Überschrift in Ebene 1
@@ -94,6 +96,8 @@ Code:
 Darstellung:
 
 # Überschrift in Ebene 1
+## Überschrift in Ebene 2
+### Überschrift in Ebene 3 
 #### Überschrift in Ebene 4
 ##### Überschrift in Ebene 5 ist die kleinste Ebene
 
