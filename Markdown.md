@@ -107,28 +107,28 @@ Für die ersten 2 Ebenen gibt es alternative Schreibweisen:
 Überschrift in Ebene 2
 ----------------------
 
-Weiter geht es mit Links, Bilder und Images:
+Weiter geht es mit Links und Images:
 
 Code:
 
-    [Ein Beispiel](http://www.google.de/ "Titel, der beim Überfahren mit der Maus angezeigt wird"))
+    [Ein Beispiel](http://www.google.de/ "Titel, der beim Überfahren mit der Maus angezeigt wird")
     
     allgemeine Syntax:
 
     ![Alternativtext](Bild-URL "Bildtitel hier")
 
     konkretes Beispiel:
-    ![nur ein Beispiel]()
+    ![nur ein Beispiel](https://i.ytimg.com/vi/Zwtqvi0SttE/maxresdefault.jpg "Wütend?")
     
     Here's our logo (hover to see the title text):
 
     Inline-style: 
-    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+    ![alt text](http://centreinfection.s3.amazonaws.com/wp/sites/2/2015/03/13121802/generic-logo.jpg "Logo Title Text 1")
 
     Reference-style: 
     ![alt text][logo]
 
-    [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+    [logo]: http://centreinfection.s3.amazonaws.com/wp/sites/2/2015/03/13121802/generic-logo.jpg "Logo Title Text 2"
     
 Darstellung:
 
@@ -139,17 +139,17 @@ allgemeine Syntax:
 ![Alternativtext](Bild-URL "Bildtitel hier")
 
 konkretes Beispiel:
-![nur ein Beispiel]()
+![nur ein Beispiel](https://i.ytimg.com/vi/Zwtqvi0SttE/maxresdefault.jpg "FFFFFFFFFFFFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU")
 
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://centreinfection.s3.amazonaws.com/wp/sites/2/2015/03/13121802/generic-logo.jpg "Generisches Logo, yo")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: http://centreinfection.s3.amazonaws.com/wp/sites/2/2015/03/13121802/generic-logo.jpg "Nochmal der gleiche Rotz, yo"
 
 #####2.2 Komplexe Formartierung 
 
@@ -157,5 +157,67 @@ Eine Möglichkeit der Verwendung von einfachen Codeblöcken haben wir ja schon k
 Hierzu müssen wir den Codeblock zunächst mit der noch nicht behandelten Methode mit je drei führenden und folgenden Backticks schreiben:
 
     ```
-    CODE
+    'Dies ist ein Kommentar
+    dim example as string = "Dies ist Beispielcode"
+    example = "Dies ebenfalls"
+    
+    if example = "Dies auch" then
+      dim i as integer = 1
+      return i
+    else
+      dim i as integer = 1337
+      return i
+    end if
     ```
+Dies gibt uns folgenden Codeblock:
+```
+'Dies ist ein Kommentar
+dim example as string = "Dies ist Beispielcode"
+example = "Dies ebenfalls"
+
+if example = "Dies auch" then
+  dim i as integer = 1
+  return i
+else
+  dim i as integer = 1337
+  return i
+end if
+```
+Um nun Syntax-highlighting hinzuzufügen müssen wir hinter die ersten drei Backticks noch das Kürzel der entsprechenden Sprache (in diesem Fall `vbnet` für **VisualBasic.NET**) schreiben:
+
+    ```vbnet
+    'Dies ist ein Kommentar
+    dim example as string = "Dies ist Beispielcode"
+    example = "Dies ebenfalls"
+    
+    if example = "Dies auch" then
+      dim i as integer = 1
+      return i
+    else
+      dim i as integer = 1337
+      return i
+    end if
+    ```
+Was in diesen Codeblock resultiert:
+```vbnet
+'Dies ist ein Kommentar
+dim example as string = "Dies ist Beispielcode"
+example = "Dies ebenfalls"
+
+if example = "Dies auch" then
+  dim i as integer = 1
+  return i
+else
+  dim i as integer = 1337
+  return i
+end if
+```
+Eine Liste mit Kürzeln unterstützter Programmiersprachen findet man beispielsweise [hier](http://tinker.kotaweaver.com/blog/?p=152 "Dies ist eine Liste. Ist eh egal was ich hier reinschreibe weil man das auf der .pdf eh nicht mehr sieht, also fuck that shit")
+
+Weiterhin ist es auch möglich, Code innerhalb einer Zeile anzeigen zu lassen, sogennanten **Inline-Code**.
+Hierzu umfasst man den gewünschten Text einfach mit einfachen Backticks:
+
+    Dies ist ein `Beispiel` welches die Verwendung verdeutlicht.
+Resultiert in:
+
+Dies ist ein `Beispiel` welches die Verwendung verdeutlicht.
