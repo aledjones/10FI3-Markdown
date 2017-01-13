@@ -309,6 +309,9 @@ Hier ist noch mal der Link zur [Liste](http://tinker.kotaweaver.com/blog/?p=152 
 
 ##### 3.2 Simple Textverarbeitung  
 
+Dieses Thema werden wir anhand eines Texeditors, in diesem Fall **Write!** erklären. Write! ist dabei allerdings nicht nur ein klassischer Markdown-Editor, sondern kann mit einigen Funktionen punkten, die teilweise recht untypisch in diesem Gebiet sind ,hier sind einige Beispiele  Wortkorrektur, automatische Wortvervollständigung und Rich-Text-Formatierungen (mitsamt Textfarben). Neben Markdown unterstützt Write! dazu mit Textile auch ein Wiki-ähnliches Markup, insofern hat man im Bezug auf die Texterstellung also eine schöne Auswahl an Auszeichnungssprachen. 
+
+
 ##### 3.3 Spezielle Einsatzgebiete  
 
 ---
@@ -324,4 +327,5 @@ Hier ist noch mal der Link zur [Liste](http://tinker.kotaweaver.com/blog/?p=152 
 5. [Markdown Tabellen](http://www.tablesgenerator.com/markdown_tables)
 3. [Markdown vs Word](http://www.chip.de/artikel/Alternativen-zu-Microsoft-Word-6_62389509.html)  
 4. [Markdown vs LaTeX](https://www.schlosser.info/markdown-latex/)  
-5. 
+5. [Markdown Textverarbeitung](http://appspezis.de/write-windows/)
+6. 
