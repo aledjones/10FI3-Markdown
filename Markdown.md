@@ -151,6 +151,16 @@ Reference-style:
 
 [logo]: http://centreinfection.s3.amazonaws.com/wp/sites/2/2015/03/13121802/generic-logo.jpg "Nochmal der gleiche Rotz, yo"
 
+Mithilfe von folgender Syntax `:EMOJICODE:` kann man Emojis in Markdown hinzufügen.
+
+Code:
+
+    ::
+    
+Darstellung:
+
+::
+
 #####2.2 Komplexe Formartierung 
 
 Eine Möglichkeit der Verwendung von einfachen Codeblöcken haben wir ja schon kennengelernt. Markdown bietet aber auch die Möglichkeit, Syntax-Highlighting für (fast) alle gängigen Programmiersprachen in Codeblöcken zu verwenden.
