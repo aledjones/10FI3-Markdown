@@ -161,7 +161,7 @@ Darstellung:
 
 :shit:
 
-Weitere Emojis sind [hier](http://www.webpagefx.com/tools/emoji-cheat-sheet/ "Emojis") zu finden.
+Für mehr Syntaxen [hier](http://www.webpagefx.com/tools/emoji-cheat-sheet/ "Emojis") klicken.
 
 ##### 2.2 Komplexe Formartierung 
 
@@ -234,16 +234,29 @@ Resultiert in:
 
 Dies ist ein `Beispiel` welches die Verwendung verdeutlicht.
 
+##### 2.3 Bitmap-Support
+
+##### 2.4 Unterschiede zu gängigen Textverarbeitungen  
+
+**Markdown** vs *Word*
+
+Wenn man ein Word Dokument ohne hineinzuschreiben, ist es trotz allem ca 25 kB groß, da es Dokumenteigenschaften, Änderungen am Dokument (Schnellspeicherung), Datenspuren bei der Nutzung erweiterter Funktionen, Überarbeitungen, Kommentare, E-Mail-Header (Betreff, Adressaten), E-Mail-Verteiler für die Überarbeitung des Dokuments ("Laufzettel", routing slip), verschiedene Dateiversionen, Text- und Bildinhalte, die der Benutzer selbst "versteckt“, nicht sichtbare Teile von eingefügten Objekten (Tabellen, Diagramme, Bilder), ausgeblendeter Text, versteckter Text (durch geeignete Text-/Hintergrundfarbe oder farbigen Balken), Netzwerk und Computer Details, den Speicherort des Dokuments (inkl. Netzwerkpfad – falls vorhanden), auf welchem Drucker das Dokument zuletzt ausgedruckt wurd usw.     
+Bei Markdown hingegen ist alles aus Text bzw einigen simplen Formatierungsbefehlen, außerdem ist die Syntax sehr einfach und schnell zu lernen. Man kann den geschriebenen Text leicht in andere Sprachen umwandeln. 
+Derzeit findet in den USA ein regelrechter Markdown-Boom statt. Immer mehr kleinere Textverarbeitungen nutzen Markdown. Der Erfolg ist vor allem der neuen Mobilität geschuldet: Statt großer Datenmengen werden kleine Textschnipsel in Sekundenschnelle für alle Systeme synchronisiert – so bleiben Dokumente immer und überall aktuell, sei es auf dem Smartphone oder im Büro.
+Für Layouts, Serienbriefe oder Magazine ist diese Form der Textbearbeitung jedoch keinesfalls geeignet; dazu sind die Formatierungsmöglichkeiten viel zu schmalbrüstig. Mit Stylesheets lassen sich die Formatierungen jedoch noch erweitern. 
 
 ### 3. Einsatzgebiete
 
 ##### 3.1 Dokumentation von Code
 
+##### 3.2 Simple Textverarbeitung  
 
+##### 3.3 Spezielle Einsatzgebiete  
 
 
 ### 5. Quellen
 
 1. [Markdown Wikipedia](https://de.wikipedia.org/wiki/Markdown "Quelle")
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Quelle")  
-3.
+3. [Markdown vs Word](http://www.chip.de/artikel/Alternativen-zu-Microsoft-Word-6_62389509.html)  
+4. 
