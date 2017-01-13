@@ -304,7 +304,7 @@ An den obigen Beispielen sieht man, dass Markdown eine sehr einfache und gute Ma
 ##### 3.1 Dokumentation von Code
 
 Die Dokumentation von Code ist in Markdown sehr simpel. Man nutzt den sogenannten Codeblock. Die Syntax haben wir schon einmal unter *2.2 Komplexe Formatierung* erwähnt, sowie der Inline-Code und das Syntax-Highlighting von verschiedestens Sprachen (z.B. vbnet).
-Hier ist noch mal der Link zur [Liste](http://tinker.kotaweaver.com/blog/?p=152 "Dies ist eine Liste. Ist eh egal was ich hier reinschreibe weil man das auf der .pdf eh nicht mehr sieht, also fuck that shit), welche die verschiedenen Sprachen aufzählt.
+Hier ist noch mal der Link zur [Liste](http://tinker.kotaweaver.com/blog/?p=152 "Dies ist eine Liste. Ist eh egal was ich hier reinschreibe weil man das auf der .pdf eh nicht mehr sieht, also fuck that shit"), welche die verschiedenen Sprachen aufzählt.
 
 
 ##### 3.2 Simple Textverarbeitung  
