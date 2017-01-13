@@ -221,3 +221,12 @@ Hierzu umfasst man den gewünschten Text einfach mit einfachen Backticks:
 Resultiert in:
 
 Dies ist ein `Beispiel` welches die Verwendung verdeutlicht.
+
+
+
+
+###Quellen
+
+1. [Markdown Wikipedia](https://de.wikipedia.org/wiki/Markdown "Quelle")
+2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Quelle")
+3.
