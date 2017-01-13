@@ -26,16 +26,16 @@
 
 ### 1. Markdown, eine universelle Sprache
 
-#####1.1 Was ist Markdown?
+##### 1.1 Was ist Markdown?
 
 Markdown ist eine so genannte Markup-Language, eine Textsprache zur Notation von Textdokumenten in einem universell lesbarem Standard.
 Markdown wurde mit dem Ziel entwickelt, selbst im blanken Code-Zustand eine lesbare Syntax zu repräsentieren. 
 
 
 
-###2. Syntax
+### 2. Syntax
 
-#####2.1 Einfache Formatierung
+##### 2.1 Einfache Formatierung
 
 In diesem Abschnitt wird als erstes ein Code-Block gezeigt und danach wie es aussieht, wenn man ihn in einem Markdown-Parser ausführt.   
 Ein Code-Block wird hinzugefügt, indem man vor die entsprechende Zeile 4 Leerzeichen setzt.    
@@ -163,7 +163,7 @@ Darstellung:
 
 Weitere Emojis sind [hier](http://www.webpagefx.com/tools/emoji-cheat-sheet/ "Emojis") zu finden.
 
-#####2.2 Komplexe Formartierung 
+##### 2.2 Komplexe Formartierung 
 
 Eine Möglichkeit der Verwendung von einfachen Codeblöcken haben wir ja schon kennengelernt. Markdown bietet aber auch die Möglichkeit, Syntax-Highlighting für (fast) alle gängigen Programmiersprachen in Codeblöcken zu verwenden.
 Hierzu müssen wir den Codeblock zunächst mit der noch nicht behandelten Methode mit je drei führenden und folgenden Backticks schreiben:
@@ -235,9 +235,14 @@ Resultiert in:
 Dies ist ein `Beispiel` welches die Verwendung verdeutlicht.
 
 
+### 3. Einsatzgebiete
+
+##### 3.1 Dokumentation von Code
 
 
-###Quellen
+
+
+### 5. Quellen
 
 1. [Markdown Wikipedia](https://de.wikipedia.org/wiki/Markdown "Quelle")
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Quelle")  
