@@ -31,7 +31,7 @@
 Markdown ist eine so genannte Markup-Language, eine Textsprache zur Notation von Textdokumenten in einem universell lesbarem Standard.
 Markdown wurde mit dem Ziel entwickelt, selbst im blanken Code-Zustand eine lesbare Syntax zu repräsentieren. 
 
-
+---
 
 ### 2. Syntax
 
@@ -245,6 +245,30 @@ Bei Markdown hingegen ist alles aus Text bzw einigen simplen Formatierungsbefehl
 Derzeit findet in den USA ein regelrechter Markdown-Boom statt. Immer mehr kleinere Textverarbeitungen nutzen Markdown. Der Erfolg ist vor allem der neuen Mobilität geschuldet: Statt großer Datenmengen werden kleine Textschnipsel in Sekundenschnelle für alle Systeme synchronisiert – so bleiben Dokumente immer und überall aktuell, sei es auf dem Smartphone oder im Büro.
 Für Layouts, Serienbriefe oder Magazine ist diese Form der Textbearbeitung jedoch keinesfalls geeignet; dazu sind die Formatierungsmöglichkeiten viel zu schmalbrüstig. Mit Stylesheets lassen sich die Formatierungen jedoch noch erweitern. 
 
+**Fazit**: Sollte das Textverarbeitungprogramm Ihrer Wahl Markdown beherrschen, lohnt sich ein Blick darauf. 
+
+===
+
+**Markdown** vs *LaTeX*
+
+Da nicht jeder gleich weiß was LaTeX ist, [hier](https://www.dante.de/tex/WasIstLaTeX.html) eine kleine Einführung.
+
+LaTeX hat einige Vorteile gegenüber Markdown. Hier sind einige:
+
+* man kann Druckdaten in Postscript oder PDF in einer sehr guten Layout- und Satzqualität erzeugen
+* feste Layoutvorgaben von der Universität, dem Lehrstuhl, der Konferenz oder dem Journal (in bestimmten Bereichen auch Vorlagen)
+* Einbinden von Literaturverweisen ist dank Bibtex/biblatex sehr flexibel
+* man kann alles an Struktur und Layout umsetzen
+
+wie schon häufiger erwähnt ist Markdown eine gut und schnell lernbare Sprache mit vielen Vorzügen. Sie besteht eigentlich nicht aus mehr außer Text.
+Man kann relativ leicht Markdown Dokumente in LaTeX verwandeln, andersherum ist es um einiges schwieriger.
+
+**Fazit**: Man solte in Markdown anfangen, kann aber sehr leicht auf LaTeX umteigen.
+
+===
+
+---
+
 ### 3. Einsatzgebiete
 
 ##### 3.1 Dokumentation von Code
@@ -253,10 +277,16 @@ Für Layouts, Serienbriefe oder Magazine ist diese Form der Textbearbeitung jedo
 
 ##### 3.3 Spezielle Einsatzgebiete  
 
+---
+
+### 4. Trivia
+
+---
 
 ### 5. Quellen
 
 1. [Markdown Wikipedia](https://de.wikipedia.org/wiki/Markdown "Quelle")
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Quelle")  
 3. [Markdown vs Word](http://www.chip.de/artikel/Alternativen-zu-Microsoft-Word-6_62389509.html)  
-4. 
+4. [Markdown vs LaTeX](https://www.schlosser.info/markdown-latex/)  
+5. 
