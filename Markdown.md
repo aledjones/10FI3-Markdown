@@ -155,11 +155,13 @@ Mithilfe von folgender Syntax `:EMOJICODE:` kann man Emojis in Markdown hinzufü
 
 Code:
 
-    ::
+    :shit:
     
 Darstellung:
 
-::
+:shit:
+
+Weitere Emojis sind [hier](http://www.webpagefx.com/tools/emoji-cheat-sheet/ "Emojis") zu finden.
 
 #####2.2 Komplexe Formartierung 
 
