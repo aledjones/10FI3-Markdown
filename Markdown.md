@@ -234,8 +234,37 @@ Resultiert in:
 
 Dies ist ein `Beispiel` welches die Verwendung verdeutlicht.
 
+Man kann in Markdown, zwar nicht so leicht wie in anderen Sprachen Tabellen einfügen, aber es ist möglich. Und zwar folgender Maßen:
+
+    |   |   |   |   |   |
+    |---|---|---|---|---|
+    |   |   |   |   |   |
+    |   |   |   |   |   |
+    |   |   |   |   |   |
+
+Die herauskommende Tabelle sieht folgendermaßen aus:
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+
 ##### 2.3 Bitmap-Support
 
+Der Bitmap-Support in Markdown ist sehr hoch. Die einzigste vorraussetzung ist, dass das Bild eine Internet Adresse hat. So wie dieses:
+
+Code:
+
+    ![Google logo](http://www.google.com/images/logo.gif "Das Google logo")
+
+Darstellung: 
+
+![Google logo](http://www.google.com/images/logo.gif "Das Google logo")
+
+Anhand dieses Beispieles ist sehr gut zu zeigen, dass mithilfe von Markdown sehr gut Bilder darzustellen sind. 
+Die Syntax ist außerdem in *2.1 Einfache Formatierung* zu sehen
 ##### 2.4 Unterschiede zu gängigen Textverarbeitungen  
 
 **Markdown** vs *Word*
@@ -265,13 +294,18 @@ Man kann relativ leicht Markdown Dokumente in LaTeX verwandeln, andersherum ist 
 
 **Fazit**: Man solte in Markdown anfangen, kann aber sehr leicht auf LaTeX umteigen.
 
-===
+
+An den obigen Beispielen sieht man, dass Markdown eine sehr einfache und gute Markup-Sprache ist. Sie ist leicht zu lernen und zu verstehen. Außerdem kann man über die Sprache gut auf andere umsteigen bzw ein Dokument in eine andere Sprache verwandeln.
 
 ---
 
 ### 3. Einsatzgebiete
 
 ##### 3.1 Dokumentation von Code
+
+Die Dokumentation von Code ist in Markdown sehr simpel. Man nutzt den sogenannten Codeblock. Die Syntax haben wir schon einmal unter *2.2 Komplexe Formatierung* erwähnt, sowie der Inline-Code und das Syntax-Highlighting von verschiedestens Sprachen (z.B. vbnet).
+Hier ist noch mal der Link zur [Liste](http://tinker.kotaweaver.com/blog/?p=152 "Dies ist eine Liste. Ist eh egal was ich hier reinschreibe weil man das auf der .pdf eh nicht mehr sieht, also fuck that shit), welche die verschiedenen Sprachen aufzählt.
+
 
 ##### 3.2 Simple Textverarbeitung  
 
@@ -287,6 +321,7 @@ Man kann relativ leicht Markdown Dokumente in LaTeX verwandeln, andersherum ist 
 
 1. [Markdown Wikipedia](https://de.wikipedia.org/wiki/Markdown "Quelle")
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Quelle")  
+5. [Markdown Tabellen](http://www.tablesgenerator.com/markdown_tables)
 3. [Markdown vs Word](http://www.chip.de/artikel/Alternativen-zu-Microsoft-Word-6_62389509.html)  
 4. [Markdown vs LaTeX](https://www.schlosser.info/markdown-latex/)  
 5. 
