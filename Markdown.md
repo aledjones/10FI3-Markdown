@@ -15,9 +15,6 @@
 3. Einsatzgebiete  
 3.1 Dokumentation von Code  
 3.2 Simple Textverarbeitung  
-3.3 Spezielle Einsatzgebiete  
-
-4. Trivia
 
 5. Quellen
 
@@ -265,6 +262,7 @@ Darstellung:
 
 Anhand dieses Beispieles ist sehr gut zu zeigen, dass mithilfe von Markdown sehr gut Bilder darzustellen sind. 
 Die Syntax ist außerdem in *2.1 Einfache Formatierung* zu sehen
+
 ##### 2.4 Unterschiede zu gängigen Textverarbeitungen  
 
 **Markdown** vs *Word*
@@ -311,16 +309,6 @@ Hier ist noch mal der Link zur [Liste](http://tinker.kotaweaver.com/blog/?p=152 
 
 Dieses Thema werden wir anhand eines Texeditors, in diesem Fall **Write!** erklären. Write! ist dabei allerdings nicht nur ein klassischer Markdown-Editor, sondern kann mit einigen Funktionen punkten, die teilweise recht untypisch in diesem Gebiet sind ,hier sind einige Beispiele  Wortkorrektur, automatische Wortvervollständigung und Rich-Text-Formatierungen (mitsamt Textfarben). Neben Markdown unterstützt Write! dazu mit Textile auch ein Wiki-ähnliches Markup, insofern hat man im Bezug auf die Texterstellung also eine schöne Auswahl an Auszeichnungssprachen. 
 Weiteres über Textverarbeitung kann man [hier](http://appspezis.de/tag/textverarbeitung/) herausfinden.
-
-
-##### 3.3 Spezielle Einsatzgebiete  
-
-
-
----
-
-### 4. Trivia
-
 
 
 ---
