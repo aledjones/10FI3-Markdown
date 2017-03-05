@@ -331,4 +331,3 @@ Weiteres über Textverarbeitung kann man [hier](http://appspezis.de/tag/textvera
 3. [Markdown vs Word](http://www.chip.de/artikel/Alternativen-zu-Microsoft-Word-6_62389509.html)  
 4. [Markdown vs LaTeX](https://www.schlosser.info/markdown-latex/)  
 5. [Markdown Textverarbeitung](http://appspezis.de/write-windows/)
-6. 
